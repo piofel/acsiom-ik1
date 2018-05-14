@@ -1,0 +1,19 @@
+The initial dual momentum
+Warning: modify the arabic numbers only. Do not type points or minus signs other than the number signs or points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type: 9 
+
+Floating point parameters
+***********************************************************************************************************************
+The momentum is measured relative to an inertial frame and expressed in this frame
+The below linear momentum is expressed in (kg * m/s)
+Linear momentum axis I:		80
+Linear momentum axis II:	10
+Linear momentum axis III:	0
+The below angular momentum is expressed in (kg * square m/s)
+Angular momentum axis I:	20
+Angular momentum axis II:	0
+Angular momentum axis III:	-50

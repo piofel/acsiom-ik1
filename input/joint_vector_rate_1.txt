@@ -1,0 +1,35 @@
+The first derivative of joint variables vector of 1st manipulator
+Warning: modify the arabic numbers only. Do not type points or minus signs other than the number signs or points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type : 8 
+The below angle rates have the zero parameter if expressed in radians/s, one if in degrees/s
+Rate of change of joint angle I:	1
+Rate of change of joint angle II:	1
+Rate of change of joint angle III:	1
+Rate of change of joint angle IV:	1
+Rate of change of joint angle V:	1
+Rate of change of joint angle VI:	1
+Rate of change of joint angle VII:	1
+
+Floating point parameters
+***********************************************************************************************************************
+Time moment:				0
+Below offsets are measured in (m)
+Rate of change of joint offset I:	.05	
+Rate of change of joint offset II: 	-0.04
+Rate of change of joint offset III:	0
+Rate of change of joint offset IV: 	-.05
+Rate of change of joint offset V: 	0
+Rate of change of joint offset VI: 	0	
+Rate of change of joint offset VII: 	-0.47
+Rate of change of joint angle I: 	35
+Rate of change of joint angle II: 	-170
+Rate of change of joint angle III: 	0
+Rate of change of joint angle IV: 	0
+Rate of change of joint angle V: 	0
+Rate of change of joint angle VI: 	0
+Rate of change of joint angle VII: 	0
+

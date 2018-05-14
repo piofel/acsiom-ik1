@@ -1,0 +1,12 @@
+Parameters of 1st manipulator
+Warning: modify the arabic numbers only. Do not type points or minus signs other than the number signs or points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type (zero: base, one: link, two: end effector, three: manipulator): 3
+Number of degrees of freedom: 6
+
+Floating point parameters
+***********************************************************************************************************************
+

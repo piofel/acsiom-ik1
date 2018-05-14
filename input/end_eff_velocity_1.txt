@@ -1,0 +1,22 @@
+End-effector velocities of 1st manipulator
+Warning: modify the arabic numbers only. Do not type points or minus signs other than the number signs or points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type: 10 
+The below velocities have the zero parameter if expressed in radians/s, one if in degrees/s
+Angular velocity axis I:	1
+Angular velocity axis II:	1
+Angular velocity axis III:	1
+
+Floating point parameters
+***********************************************************************************************************************
+The velocities are measured relative to an inertial frame and expressed in this frame
+Angular velocity axis I:	0
+Angular velocity axis II:	0.25
+Angular velocity axis III:	-0.5
+The below linear velocity is expressed in (m/s)
+Linear velocity axis I:		-.01
+Linear velocity axis II:	.05
+Linear velocity axis III:	0.0

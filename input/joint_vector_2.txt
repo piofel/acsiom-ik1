@@ -1,0 +1,35 @@
+Joint variables vector
+Warning: modify the arabic numbers only. Do not type points or minus signs other than the number signs or points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type : 6 
+The below angles have the zero parameter if expressed in radians, one if in degrees
+Angle of joint I:	1
+Angle of joint II:	1
+Angle of joint III:	1
+Angle of joint IV:	1
+Angle of joint V:	1
+Angle of joint VI:	1
+Angle of joint VII:	1
+
+Floating point parameters
+***********************************************************************************************************************
+Time moment:		0
+Below offsets are measured in (m)
+Offset of joint I:	.08
+Offset of joint II: 	.32
+Offset of joint III:	.2
+Offset of joint IV: 	.02
+Offset of joint V: 	-.03
+Offset of joint VI: 	0.2
+Offset of joint VII: 	0.1
+Angle of joint I: 	-13.6239
+Angle of joint II: 	-57.9573
+Angle of joint III: 	48.9435
+Angle of joint IV: 	-21.6585
+Angle of joint V: 	22.875
+Angle of joint VI: 	-.3	
+Angle of joint VII: 	0.25
+

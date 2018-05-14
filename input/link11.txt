@@ -1,0 +1,31 @@
+Parameters of 1st link of 1st manipulator
+Warning: modify the arabic numbers only. Do not type points or minus signs other than the number signs or points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type (zero for the base, one for a link): 								1
+The below angles have the zero parameter if expressed in radians, one if in degrees
+Roll of the frame with the origin fixed in the link center of mass: 						1
+Pitch of the frame with the origin fixed in the link center of mass: 						1 
+Yaw of the frame with the origin fixed in the link center of mass: 						1
+Twist of the preceding link: 											1
+Joint type (zero for prismatic, one for revolute, two for prismatic redundant, three for revolute redundant): 	0  
+
+Floating point parameters
+***********************************************************************************************************************
+Mass: 									30 (kg)
+Below positions are measured relative to the joint frame (m)
+Position of the center of mass (axis I): 				0.125
+Position of the center of mass (axis II): 				0
+Position of the center of mass (axis III): 				0
+Below angles are measured relative to the joint frame
+Roll of the frame with the origin fixed in the link center of mass: 	0 
+Pitch of the frame with the origin fixed in the link center of mass: 	0 
+Yaw of the frame with the origin fixed in the link center of mass: 	0
+The unit of the mass moments of inertia is (kg*m*m)
+Mass moment of inertia (axis I): 					0.175	
+Mass moment of inertia (axis II): 					0.175
+Mass moment of inertia (axis III): 					0.0375
+Length of the preceding link: 						2.5 (m)
+Twist of the preceding link: 						0

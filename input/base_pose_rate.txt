@@ -1,0 +1,24 @@
+Linear and angular velocity of the base satellite
+Warning: modify the arabic numbers only. Do not type points or minus signs other than the number signs or points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type: 				7 
+The below angle rates have the zero parameter if expressed in radians/s, one if in degrees/s
+Roll rate of the main base frame: 	1
+Pitch rate of the main base frame: 	1
+Yaw rate of the main base frame: 	1
+
+Floating point parameters
+***********************************************************************************************************************
+Time moment: 	0
+Below linear velocities are measured relative to an inertial frame (m/s)
+Position rate of the main base frame (axis I): 		0	
+Position rate of the main base frame (axis II): 	0	
+Position rate of the main base frame (axis III): 	0
+Below angle rates are measured relative to an inertial frame
+Roll rate of the main base frame: 	0	
+Pitch rate of the main base frame: 	0
+Yaw rate of the main base frame: 	0
+

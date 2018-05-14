@@ -1,0 +1,27 @@
+Parameters of the base satellite
+Warning: modify the arabic numbers only. Do not type points other than the number points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type (zero for the base, one for a link): 					0
+The below angles have the zero parameter if expressed in radians, one if in degrees
+Roll of the frame with the origin fixed in the base center of mass: 			1
+Pitch of the frame with the origin fixed in the base center of mass: 			1 
+Yaw of the frame with the origin fixed in the base center of mass: 			1
+
+Floating point parameters
+***********************************************************************************************************************
+Mass: 									2552 (kg)
+Below positions are measured relative to the main base frame (m)
+Position of the center of mass (axis I): 				1.5
+Position of the center of mass (axis II): 				1.8
+Position of the center of mass (axis III): 				.7	
+Below angles are measured relative to the main base frame (deg)
+Roll of the frame with the origin fixed in the base center of mass: 	90 
+Pitch of the frame with the origin fixed in the base center of mass: 	60 
+Yaw of the frame with the origin fixed in the base center of mass: 	30 
+The unit of the mass moments of inertia is (kg*m*m)
+Mass moment of inertia (axis I): 					6200
+Mass moment of inertia (axis II): 					3540
+Mass moment of inertia (axis III): 					7090

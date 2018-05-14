@@ -1,0 +1,12 @@
+Parameters of a robot 
+Warning: modify the arabic numbers only. Do not type points or minus signs other than the number signs or points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type (zero: base, one: link, two: end effector, three: manipulator, four: robot): 4
+Number of manipulators: 2
+
+Floating point parameters
+***********************************************************************************************************************
+

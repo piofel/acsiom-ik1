@@ -1,0 +1,37 @@
+Parameters of end effector of 1st manipulator
+Warning: modify the arabic numbers only. Do not type points other than the number points.
+***********************************************************************************************************************
+
+Integer parameters
+***********************************************************************************************************************
+System type (zero for the base, one for a link, two for an end effector): 		2
+The below angles have the zero parameter if expressed in radians, one if in degrees
+Roll of the frame with the origin fixed in the end effector center of mass: 		1
+Pitch of the frame with the origin fixed in the end effector center of mass: 		1 
+Yaw of the frame with the origin fixed in the end effector center of mass: 		1
+Roll of the end effector frame: 							1
+Pitch of the end effector frame: 							1
+Yaw of the end effector frame: 								1
+
+Floating point parameters
+***********************************************************************************************************************
+Mass: 										7 (kg)
+Below positions are measured relative to the end effector main frame (m)
+Position of the center of mass (axis I): 					0.35
+Position of the center of mass (axis II): 					0
+Position of the center of mass (axis III): 					0
+Below angles are measured relative to the end effector main frame (m)
+Roll of the frame with the origin fixed in the end effector center of mass: 	0 
+Pitch of the frame with the origin fixed in the end effector center of mass: 	0 
+Yaw of the frame with the origin fixed in the end effector center of mass: 	0
+The unit of the mass moments of inertia is (kg*m*m)
+Mass moment of inertia (axis I): 						0.02
+Mass moment of inertia (axis II): 						0.02
+Mass moment of inertia (axis III): 						0.01
+Below positions are measured relative to the last joint (wrist) frame (m)
+Position of the origin of the end effector main frame (axis I): 		0.25
+Position of the origin of the end effector main frame (axis II): 		0
+Position of the origin of the end effector main frame (axis III): 		0
+Roll of the end effector main frame: 						0
+Pitch of the end effector main frame: 						0
+Yaw of the end effector main frame: 						0
